@@ -12,7 +12,6 @@
 		B657CCA7290820770070C8DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B657CCA6290820770070C8DD /* ViewController.swift */; };
 		B657CCAC290820790070C8DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B657CCAB290820790070C8DD /* Assets.xcassets */; };
 		B657CCAF290820790070C8DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B657CCAD290820790070C8DD /* LaunchScreen.storyboard */; };
-		B6DA43832916E8E4003A309F /* PulsingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DA43822916E8E4003A309F /* PulsingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		B657CCAB290820790070C8DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B657CCAE290820790070C8DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B657CCB0290820790070C8DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B6DA43822916E8E4003A309F /* PulsingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PulsingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +57,6 @@
 				B657CCA2290820770070C8DD /* AppDelegate.swift */,
 				B657CCA4290820770070C8DD /* SceneDelegate.swift */,
 				B657CCA6290820770070C8DD /* ViewController.swift */,
-				B6DA43822916E8E4003A309F /* PulsingView.swift */,
 				B657CCAB290820790070C8DD /* Assets.xcassets */,
 				B657CCAD290820790070C8DD /* LaunchScreen.storyboard */,
 				B657CCB0290820790070C8DD /* Info.plist */,
@@ -138,7 +135,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B657CCA7290820770070C8DD /* ViewController.swift in Sources */,
-				B6DA43832916E8E4003A309F /* PulsingView.swift in Sources */,
 				B657CCA3290820770070C8DD /* AppDelegate.swift in Sources */,
 				B657CCA5290820770070C8DD /* SceneDelegate.swift in Sources */,
 			);
